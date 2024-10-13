@@ -51,7 +51,7 @@ function App() {
     };
 
     return (
-        <div className="border-solid border-2 border-black min-w-fit min-h-fit mx-96 my-72 flex flex-row justify-center items-center gap-10 text-black p-10">
+        <div className="min-w-screen min-h-screen m-auto flex flex-row justify-center items-center gap-10 text-black p-10">
             <div className="flex flex-col justify-center items-center">
                 <span className="text-4xl">{countdown.days}</span>
                 <span className="text-2xl">Days</span>
