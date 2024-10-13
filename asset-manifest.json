@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/New-Year-Countdown/static/css/main.e5ace01f.css",
-    "main.js": "/New-Year-Countdown/static/js/main.615c9b3d.js",
+    "main.css": "/New-Year-Countdown/static/css/main.613a0b06.css",
+    "main.js": "/New-Year-Countdown/static/js/main.d471d2fe.js",
     "index.html": "/New-Year-Countdown/index.html",
-    "main.e5ace01f.css.map": "/New-Year-Countdown/static/css/main.e5ace01f.css.map",
-    "main.615c9b3d.js.map": "/New-Year-Countdown/static/js/main.615c9b3d.js.map"
+    "main.613a0b06.css.map": "/New-Year-Countdown/static/css/main.613a0b06.css.map",
+    "main.d471d2fe.js.map": "/New-Year-Countdown/static/js/main.d471d2fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.e5ace01f.css",
-    "static/js/main.615c9b3d.js"
+    "static/css/main.613a0b06.css",
+    "static/js/main.d471d2fe.js"
   ]
 }
