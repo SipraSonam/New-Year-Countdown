@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SipraSonam/New-Year-Countdown/static/css/main.e5ace01f.css",
+    "main.js": "/SipraSonam/New-Year-Countdown/static/js/main.615c9b3d.js",
+    "index.html": "/SipraSonam/New-Year-Countdown/index.html",
+    "main.e5ace01f.css.map": "/SipraSonam/New-Year-Countdown/static/css/main.e5ace01f.css.map",
+    "main.615c9b3d.js.map": "/SipraSonam/New-Year-Countdown/static/js/main.615c9b3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5ace01f.css",
+    "static/js/main.615c9b3d.js"
+  ]
+}
